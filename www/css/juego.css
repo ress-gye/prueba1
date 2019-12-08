@@ -1,0 +1,20 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #fdcf58;
+}
+
+div.lectura{
+  display: block;
+  background-color: #f27d0c;
+  color: #800909;
+  border: none;
+  width: 50%; /* Darle la mitad del tamaño a los div's   */
+  padding: 30px;
+  font-size: 3em;
+  margin-top: 10px;
+  margin-left: auto; /*los div's quedarán centrados en la mitad del dispositivo*/
+  margin-right: auto;
+  text-align: center;
+  text-transform: uppercase;
+}
